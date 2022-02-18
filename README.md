@@ -4,11 +4,11 @@
 - 🌱 Atualmente estudando JavaScript e Node.js
 - 😄 Pronouns: Ele/Dele
 
-<div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" widht="350px" src="https://github-readme-stats.vercel.app/api?username=luis-a-silva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" widht="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-a-silva&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+<div align="center">
+  <a href="https://github.com/luis-a-silva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-a-silva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-a-silva&layout=compact&langs_count=7&theme=highcontrast"/>
+   </div>
 
   ##
  
@@ -18,7 +18,8 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">          
-</div>
+  <img align="right" height="180em" src="https://cdn.discordapp.com/attachments/655537741538525188/944252902405443634/download20220205120604.png"/> 
+  </div>
 
   ##
   
