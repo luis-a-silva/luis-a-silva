@@ -4,10 +4,10 @@
 - 🌱 Atualmente estudando JavaScript e Node.js
 - 😄 Pronouns: Ele/Dele
 
-<div align="right">
+<div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" widht="50%" src="https://github-readme-stats.vercel.app/api?username=luis-a-silva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" widht="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-a-silva&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=luis-a-silva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-a-silva&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
   ##
