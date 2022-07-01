@@ -1,9 +1,9 @@
 # Olá me chamo Luís, vem me conhecer!  😉
 
-- 🔭 Estudando para me tornar um desenvolvedor Front-End
-- 🌱 Atualmente estudando JavaScript e Node.js
-- 😄 Pronouns: Ele/Dele
-
+- Cursando Sistemas de Informação
+- Técnico em Desenvolvimento de Sistemas
+- Sempre buscando aprender coisas novas
+- Esta é a porta de entrada para todos os meus projetos que farei nessa caminhada à excelencia 
 <div align="center">
   <a href="https://github.com/luis-a-silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-a-silva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -17,8 +17,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">          
-  <img align="right" height="180em" src="https://cdn.discordapp.com/attachments/655537741538525188/944252902405443634/download20220205120604.png"/> 
-  </div>
+  
 
   ##
   
