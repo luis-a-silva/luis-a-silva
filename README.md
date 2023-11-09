@@ -3,7 +3,6 @@
 - Cursando Sistemas de Informação;
 - Técnico em Desenvolvimento de Sistemas;
 - Sempre buscando aprender coisas novas;
-- Esta é a porta de entrada para todos os meus projetos que farei nessa caminhada em busca da excelência;
 <div align="center">
   <a href="https://github.com/luis-a-silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-a-silva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
